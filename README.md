@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Yassine!
+# Yassine!
 
 ## About Me
 
@@ -10,8 +10,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/yassine-beniguemim/)](Yassine BENIGUEMIM)
-[![Medium](https://medium.com/@yassinebeniguemim)](Yassine BENIGUEMIM)
+[![LinkedIn](https://www.linkedin.com/in/yassine-beniguemim/)]
+[![Medium](https://medium.com/@yassinebeniguemim)]
 
 ## 📝 Latest Blog Posts
 
