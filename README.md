@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hey there! I'm Yassine!
 
-<!--
-**igmim-yassine/igmim-yassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🚀 I'm Yassine BENIGUEMIM and I'm a Data Scientist Student at Ecole Polytechnique at Paris.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Fun Facts
+
+- 🔭 I'm currently exploring the mysteries of Information Retrieval with Generate AI Models.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://www.linkedin.com/in/yassine-beniguemim/)](Yassine BENIGUEMIM)
+[![Medium](https://medium.com/@yassinebeniguemim)](Yassine BENIGUEMIM)
+
+## 📝 Latest Blog Posts
+
+📌 Check out my latest brain dumps on [Supporting search engines with knowledge and context — Part 2: Automatically generating textual descriptions](https://medium.com/@yassinebeniguemim/supporting-search-engines-with-knowledge-and-context-part-2-automatically-generating-textual-dd3c97fc1ba9).
