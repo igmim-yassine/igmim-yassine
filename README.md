@@ -13,6 +13,6 @@
 [![LinkedIn](https://www.linkedin.com/in/yassine-beniguemim/)]
 [![Medium](https://medium.com/@yassinebeniguemim)]
 
-## 📝 Latest Blog Posts
+## 📝 Explore my writings
 
 📌 Check out my latest brain dumps on [Supporting search engines with knowledge and context — Part 2: Automatically generating textual descriptions](https://medium.com/@yassinebeniguemim/supporting-search-engines-with-knowledge-and-context-part-2-automatically-generating-textual-dd3c97fc1ba9).
