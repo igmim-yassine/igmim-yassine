@@ -2,7 +2,7 @@
 
 ## About Me
 
-🚀 I'm Yassine BENIGUEMIM and I'm a Data Scientist Student at Ecole Polytechnique at Paris.
+🚀 I'm Yassine, Data Scientist Student at Ecole Polytechnique at Paris.
 
 ## 🌟 Fun Facts
 
